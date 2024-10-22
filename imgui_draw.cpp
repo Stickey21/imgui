@@ -8,6 +8,7 @@ Index of this file:
 // [SECTION] STB libraries implementation
 // [SECTION] Style functions
 // [SECTION] ImDrawList
+// [SECTION] ImDrawList Shadow Primitives
 // [SECTION] ImTriangulator, ImDrawList concave polygon fill
 // [SECTION] ImDrawList Shadow Primitives
 // [SECTION] ImDrawListSplitter
